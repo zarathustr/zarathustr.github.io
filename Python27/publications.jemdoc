@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{publications.html}
+= Qiang Shen -- Publications
+
+== Journal Papers
+. *Q. Shen*, C. Yue, C. H. Goh and D. Wang, “/[https://ieeexplore.ieee.org/document/8411448/  Active Fault-Tolerant Control System Design for Spacecraft Attitude Maneuvers with Actuator Saturation and Faults]/,” IEEE Transactions on Industrial Electronics, accepted, published online, DOI: 10.1109/TIE.2018.2854602. \n
+. *Q. Shen*, C. Yue, C. H. Goh, B. Wu and D. Wang, “/[https://ieeexplore.ieee.org/document/8307492/  Rigid-Body Attitude Tracking Control under Actuator Faults and Angular Velocity Constraints]/,” IEEE/ASME Transactions on Mechatronics, 23(3), pp. 1338-1349, 2018.\n
+. *Q. Shen*, C. Yue, C. H. Goh, B. Wu and D. Wang, “/[https://doi.org/10.1016/j.automatica.2017.12.029  Rigid-Body Attitude Stabilization with Attitude and Angular Rate Constraints]/,” Automatica, 90, pp. 157-163, 2018.\n
+. B. Wu, *Q. Shen* and X. Cao, “/[https://doi.org/10.1016/j.asr.2017.11.013  Event-Triggered Attitude Control of Spacecraft]/,” Advances in Space Research, 61(3), pp. 927-934, 2017.\n
+. *Q. Shen*, C. Yue and C. H. Goh, “/[https://doi.org/10.2514/1.G002129  Velocity-Free Attitude Reorientation of a Flexible Spacecraft with Attitude Constraints]/,” Journal of Guidance, Control, and Dynamics, 40(5), pp. 1293-1299, May 2017. \n
+. S. Zhu, D. Wang, *Q. Shen* and E. K. Poh, “/[https://doi.org/10.2514/1.G001922  Satellite Attitude Stabilization Control with Actuator Faults]/,” Journal of Guidance, Control, and Dynamics, 40(5), pp. 1304-1313, May 2017. \n
+. *Q. Shen*, D. Wang, S. Zhu and E. K. Poh, “/[http://ieeexplore.ieee.org/document/7492259/  Robust Control Allocation for Spacecraft Attitude Tracking under Actuator Faults]/,” IEEE Transactions on control systems Technology, 25(3), pp. 1068-1075, Mar. 2017. \n
+. *Q. Shen*, D. Wang, S. Zhu and E. K. Poh, “/[https://doi.org/10.1016/j.automatica.2015.09.027  Inertia-Free Fault-Tolerant Spacecraft Attitude Tracking Using Control Allocation]/,” Automatica, 62, pp. 114-121, Dec. 2015. \n
+. *Q. Shen*, D. Wang, S. Zhu and E. K. Poh, “/[https://ieeexplore.ieee.org/document/7272876/  Finite-Time Fault-Tolerant Attitude Stabilization for Spacecraft with Actuator Saturation]/,” IEEE Transactions on Aerospace and Electronic Systems, 51(3), pp. 2390-2405, Jul. 2015. \n
+. *Q. Shen*, D. Wang, S. Zhu and E. K. Poh, “/[http://ieeexplore.ieee.org/document/7492259/  Integral-Type Sliding Mode Fault-Tolerant Control for Attitude Stabilization of Spacecraft]/,” IEEE Transactions on Control Systems Technology, 23(3), pp. 1131-1138, May 2015. \n
+
+== Conference Proceedings
+
+. K. R. Singh, *Q. Shen* and S. Z. Yong, "Mesh-Based Affine Abstraction of Nonlinear Systems with Tighter Bounds," IEEE Conference on Decision and Control (CDC), Miami, FL, USA, 2018.
+. *Q. Shen*, C. H. Goh, C. Yue, B. Wu and D. Wang, "/[https://ieeexplore.ieee.org/document/8003053/  Angular Rate Constrained Attitude Reorientation of Rigid Body]/," International Conference on Control and Automation (ICCA), Ohrid, Macedonia, 2017, pp. 165-169.
+. *Q. Shen*, C. H. Goh, C. Yue and B. Wu, "/[http://ieeexplore.ieee.org/document/7943957/  Spacecraft Reorientation Control with Attitude and Angular Velocity Constraints]/," IEEE Aerospace Conference, Big Sky, Montana, USA, 2017.
+. C. Yue, C. H. Goh, T. H. Lee and *Q. Shen*, "/[http://ieeexplore.ieee.org/document/7943796/  Singularity Analysis and Configuration Optimization of Two SGCMGs]/," IEEE Aerospace Conference, Big Sky, Montana, USA, 2017.
+. *Q. Shen*, C. H. Goh and C. Yue, "/[https://ieeexplore.ieee.org/document/7848741/  Constrained attitude control of agile spacecraft using CMGs]/," IEEE Tencon, Singapore, 2016.
+. *Q. Shen*, C. H. Goh, C. Yue, D. Feng and W. H. Er, "A Comparison Study Between CMGs and RWs in Small Satellite Attitude Control", Small Satellite Systems and Services (4S) Symposium, Valletta, Malta, 2016.
+. *Q. Shen*, D. Wang, S. Zhu and E. K. Poh, "/[http://ieeexplore.ieee.org/document/7040349/  Fault-Tolerant Attitude Tracking Control for a Quadrotor Aircraft]/," IEEE Conference on Decision and Control (CDC), Los Angeles, CA, USA, 2014, pp. 6129-6134.
+. *Q. Shen*, D. Wang, S. Zhu and E. K. Poh, "/[https://ieeexplore.ieee.org/document/7040167/  Control Allocation Based Fault-Tolerant Control Design for Spacecraft Attitude Tracking]/," IEEE Conference on Decision and Control (CDC), Los Angeles, CA, USA, 2014, pp. 4983-4988.
+. *Q. Shen*, D. Wang, S. Zhu and E. K. Poh, "/[http://ieeexplore.ieee.org/document/6606131/  Adaptive Robust Fault-Tolerant Attitude Control of Spacecraft with Finite-Time Convergence]/,", Asian Control Conference (ASCC), Istanbul, Turkey, 2013. 
+. T. Liu, D. Wang, R. Chi and *Q. Shen*, "/[http://ieeexplore.ieee.org/document/6606134/  Neural Network Based Terminal Iterative Learning Control for Tracking Run-Varying Reference Point]/," Asian Control Conference (ASCC), Istanbul, Turkey, 2013.
+. X. Yang, L. Gou and *Q. Shen*, "/[https://doi.org/10.1007/978-3-642-21697-8_40  Research of Aero-Engine Robust Fault-Tolerant Control Based on Linear Matrix Inequality Approach]/," International Conference on Electric and Electronics, Nanchang, China, 2011, pp. 315-323.
+. *Q. Shen*, L. Gou and X. Yang, "/[https://doi.org/10.1007/978-3-642-21697-8_62  A Design Approach of Model-Based Optimal Fault Diagnosis/]," International Conference on Electric and Electronics, Nanchang, China, 2011, pp. 493-501.
+
+
+
+== Thesis
+Qiang Shen, "/Fault-Tolerant Control for Spacecraft Attitude Control Systems/," PhD thesis, Nanyang Technological University, 2016
+
+~~~
+Please feel free to [qiang.shen@hotmail.com contact me] should you be interested in my research.
+~~~
