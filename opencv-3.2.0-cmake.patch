@@ -1,5 +1,5 @@
---- cmake/OpenCVCompilerOptions.cmake	2016-12-23 20:54:44.000000000 +0800
-+++ cmake/OpenCVCompilerOptions.cmake	2021-10-04 19:23:44.686464281 +0800
+--- a/cmake/OpenCVCompilerOptions.cmake	2016-12-23 20:54:44.000000000 +0800
++++ b/cmake/OpenCVCompilerOptions.cmake	2021-10-04 19:23:44.686464281 +0800
 @@ -1,28 +1,4 @@
 -if(ENABLE_CCACHE AND NOT CMAKE_COMPILER_IS_CCACHE)
 -  # This works fine with Unix Makefiles and Ninja generators
