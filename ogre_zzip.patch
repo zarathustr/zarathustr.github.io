@@ -1,5 +1,5 @@
---- a/Users/zarathustra/git/Ogre3D-1.9-Mac-M1/sinbad-ogre-108ab0bcc696/CMake/Packages/FindZZip.cmake
-+++ b/Users/zarathustra/git/Ogre3D-1.9-Mac-M1-2/sinbad-ogre-108ab0bcc696/CMake/Packages/FindZZip.cmake
+--- a/CMake/Packages/FindZZip.cmake
++++ b/CMake/Packages/FindZZip.cmake
 @@ -14,32 +14,37 @@
  #  ZZip_INCLUDE_DIRS - the ZZip include directories 
  #  ZZip_LIBRARIES - link these to use ZZip
