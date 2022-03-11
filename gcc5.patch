@@ -1,0 +1,13 @@
+diff --git a/gcc/system.h b/gcc/system.h
+index 94d8138..1d850fa 100644
+--- a/gcc/system.h
++++ b/gcc/system.h
+@@ -207,7 +207,7 @@ extern int fprintf_unlocked (FILE *, const char *, ...);
+ #include "safe-ctype.h"
+ 
+ #include <sys/types.h>
+-
++#include <map>
+ #include <errno.h>
+ 
+ #if !defined (errno) && defined (HAVE_DECL_ERRNO) && !HAVE_DECL_ERRNO
