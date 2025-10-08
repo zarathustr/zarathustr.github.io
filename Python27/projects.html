@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Qiang Shen &ndash; Selected Projects</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">AboutMe</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="biography.html">Biography</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="projects.html" class="current">Projects</a></div>
+<div class="menu-item"><a href="activity.html">Professional&nbsp;Activities</a></div>
+<div class="menu-category">Miscellaneous</div>
+<div class="menu-item"><a href="usefulinks.html">UsefuLinks</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Qiang Shen &ndash; Selected Projects</h1>
+</div>
+<h2>Affine Abstraction-Based Active Model Discrimination </h2>
+<table class="imgtable"><tr><td>
+<a href="index.html"><img src="AMD.png" alt="Not Available" width="WIDTHpx" height="260px" /></a>&nbsp;</td>
+<td align="left"><p>The dynamics of smart systems, such as smart buildings, autonomous vehicles, and intelligent transportation, are almost always complex (nonlinear or hybrid), it is desirable to compute a simpler conservative approximation or abstraction that “includes” the dynamical characteristics of the original systems, for which (robust) controller/estimator designs may be easier than for the original complex systems.
+In this project, we design an affine abstraction method to over-approximate the original nonlinear vehicle dynamics and then develop an active model discrimiation approach to actively identify the true intention of the vehicle while simultaneously optimizing for safety and comfort (with minimal change in input). The vehicle's unobserved intentions are assumed to be inattentive, cautious, or aggressive, and each of them can be regarded as a different system operating mode. The active model discrimination problem aims to find optimal separating inputs that guarantee that the outputs of all the affine models cannot be identical over a finite horizon. The developed acitive model discrimination method can also be used to identify a fault type or an attack strategy in cyber-phisical systems.</p>
+</td></tr></table>
+<h2>Fault-Tolerant Control for Spacecraft Attitude Control System</h2>
+<p>In safety-critical systems such as spacecraft and aircraft, reliability is particularly important as a minor fault in such systems can result in signicant performance degradation or even instability. The attitude control subsystem of a 3-axis stabilized spacecraft is of great importance in many space missions, and the life of attitude control components essentially decides the operational life of a spacecraft. Its degradation can signicantly disrupt mission performance, and its failure is fatal to the spacecraft. <br />
+This project aims to enhance the reliability and reduce the critical failure of spacecraft from the model-based fault-tolerant control (FTC) system design perspective. Generally, the available FTC approaches can be classied into two categories: active FTC and passive FTC. In this project, both active and passive FTC approaches are developed for attitude control systems of spacecraft to improve reliability and safety while achieving fast and high-precision attitude maneuver in the presence of external disturbances, inertia uncertainties, and actuator saturation constraints. </p>
+<table class="imgtable"><tr><td>
+<a href="index.html"><img src="AFTC.png" alt="Not Available" width="WIDTHpx" height="150px" /></a>&nbsp;</td>
+<td align="left"><p>A robust control allocation (CA) based FTC system. 
+The high-level controller is to compute the total control efferts such that system stability and control performance are maintained. 
+The robust CA is to distribute the total control effects to each actuator optimally without causing further acutuator damages.</p>
+</td></tr></table>
+<h2>Rigid-Body Attitude Maneuver under Multiple State Constraints</h2>
+<table class="imgtable"><tr><td>
+<a href="index.html"><img src="Atti_Constr.jpg" alt="Not Available" width="WIDTHpx" height="260px" /></a>&nbsp;</td>
+<td align="left"><p>In practical spacecraft implementations, some sensitive instruments are required to point thier boresight along a target inertial direction while kepting away from unwanted celestial objects or bright sources of energy. For example, the infrared telescopes may slew from one direction to another without direct exposure to the sun vector or other infrared bright regions in space. In addition, due to the saturation limit of low-rate
+gyro or mission specification requirement, the spacecraft's angular velocity is also constrained. <br />
+This research studies the three-axis reorientation problem of a fully actuated rigid-body subject to both of attitude and angular rate constraints. We proposed two strictly convex potential functions for attitude constraint and angular rate constraint, whose global minima locate at their equilibria. Using the sliding mode control technique, an adaptive controller is designed to achieve asymptotic attitude stabilization and satisfy multiple state constraints simultaneously. 
+A clip demonstrating the spacecraft is retargeting its sensitive
+instrument while avoiding four celestial objects in the spacecraft
+reorientation configuration space can be found <a href="https://youtu.be/08bR-m48ymY">here</a>. </p>
+</td></tr></table>
+<div class="infoblock">
+<div class="blockcontent">
+<p>Please feel free to <a href="mailto:qiang.shen@hotmail.com">contact me</a> should you be interested in my research.</p>
+</div></div>
+<div id="footer">
+<div id="footer-text">
+Page generated 2018-07-22 22:33:38 US Mountain Standard Time, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
